@@ -2,7 +2,7 @@
 library(maftools)
 
 # Set the working directory
-setwd("/Users/vr/Desktop/Pupil_Bio/Task2/R_analysis/pupilgastk")
+setwd("/Users/vr/Desktop/Task2/R_analysis/pupilgastk")
 
 # Load the MAF file (Mutational Annotation Format)
 maf_file <- 'PA_somatic_variants_functotated.vcf'
